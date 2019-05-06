@@ -12,7 +12,7 @@ Self-confidence tends to be fueled by comparison and whether we are doing “bet
 
 Self-compassion on the other hand is not earned by successes or contingent on doing well, or even comparative in nature. It’s simply about doing your best and treating one’s self kindly, like you would treat a good friend — with warmth and understanding. When we make a mistake or we fail, we may lose our self-confidence. But that is where self-compassion steps in. Self-compassion recognizes that it’s natural and normal to make mistakes, and that we’re worthy of kindness even though we may not have performed as well as we wanted to, or mis-stepped somewhere along the way. When we're kind to ourselves, we're able to see the ways in which we can grow and what we can take away from these experiences. It's not about being better than other people. It's about being better than the current version of one’s self.
 
-The secret to increasing your confidence? Stop convincing yourself that you’re awesome and confident. Instead, forgive yourself when you’re not. Focus on learning, and think of any mistakes as things you can learn from with self-compassion in that ability to learn. Programming is difficult stuff! Your self-compassion will shine as outward confidence because you are simply being you to the best of your ability and being kind to yourself in the process.
+The secret to increasing your confidence? Stop convincing yourself that you’re awesome and confident. Instead, forgive yourself when you’re not. Focus on learning, and think of any mistakes as things you can learn from with self-compassion in that ability to learn. Your self-compassion will shine as outward confidence because you are simply being you to the best of your ability and being kind to yourself in the process.
 
 
 ## What Should You Do With All of This Confidence?
@@ -40,6 +40,3 @@ Ask thoughtful questions during each interaction to help bring you clarity where
 * [Building Confidence and Self-Esteem](https://www.psychologytoday.com/us/blog/hide-and-seek/201205/building-confidence-and-self-esteem)
 * [10 Ways to Build Confidence](https://www.forbes.com/sites/francesbridges/2017/07/21/10-ways-to-build-confidence/)
 * [Job Search Confidence](https://www.workitdaily.com/job-search-confidence/)
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/confidence'>"Confidence"</a> on Learn.co and start learning to code for free.</p>
